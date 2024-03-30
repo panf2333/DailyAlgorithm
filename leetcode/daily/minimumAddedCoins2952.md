@@ -9,7 +9,7 @@ There are two suitations:
    1. When you add x > r like: r + 1 to the array, it is same as coins[i], we can get the new [r + 1, r + r + 1).
 <font color="red">***We can't get 'r' from this too. We need to add another element to get our goal.***</font>
 
-   2. when you add x <= r, you can get [x, r + x), the x bigger the r + x bigger. <font color="red">***So we choice the x=r. if the [r, r+r)  2*r &lt; coins[i] too, we can repeat this process.***</font>
+   2. when you add x <= r, you can get [x, r + x), the x bigger the r + x bigger. <font color="red">***So we choice the x=r. if the [r, r+r)  2\*r &lt; coins[i] too, we can repeat this process.***</font>
 
 
 2. if r &gt;= coins[i] we can just extend the area to [0, r + coins[i])
