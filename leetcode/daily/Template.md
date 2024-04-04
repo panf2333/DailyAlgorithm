@@ -10,7 +10,7 @@
 
 ## Code
 ### java
-```
+```java
 ```
 
 ### python
