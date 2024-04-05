@@ -1,0 +1,73 @@
+# [1026. Maximum Difference Between Node and Ancestor](https://leetcode.cn/problems/maximum-difference-between-node-and-ancestor/description/?envType=daily-question&envId=2024-04-05)
+
+
+
+## Problem Explanation
+We just to traverse the binary tree by deep first search. And record the maximum and minimum val in the path.
+
+Then we calculate the absolute between node.val and max,min
+
+### Time complex:
+We assume the node number is n.
+O(n)
+We traversal the tree once
+
+### Space complex:
+O(1)
+
+## Code
+### java
+```java
+    // 设节点数是n
+    // 遍历一次空间是O(1)，时间是O(n)
+    // 传递当前路径上的最大值maximum和最小值minimum进入，dfs 判断当前节点的绝对值
+    // 返回最大值，因为val [0, 5*1e5] 所以开始设定最小的为root, 一开始是0
+    public int maxAncestorDiff(TreeNode root) {
+        return maxAncestorDiff(root, root.val, root.val);
+    }
+
+    private int maxAncestorDiff(TreeNode root, int maximum, int minimum) {
+        if (root == null) return -1;
+        int max = Math.max(Math.abs(maximum - root.val), Math.abs(minimum - root.val));
+        int newMax = Math.max(maximum, root.val);
+        int newMin = Math.min(minimum, root.val);
+        max = Math.max(max, maxAncestorDiff(root.left, newMax, newMin));
+        max = Math.max(max, maxAncestorDiff(root.right, newMax, newMin));
+        return max;
+    }
+```
+
+### python
+```python
+    def maxAncestorDiff(self, root: Optional[TreeNode]) -> int:
+        return self.maxAncestorDiffDFS(root, root.val, root.val)
+    
+    def maxAncestorDiffDFS(self, node: Optional[TreeNode], maximum: int, minimum: int) -> int:
+        if node == None:
+            return maximum - minimum
+        maximum = max(maximum, node.val)
+        minimum = min(minimum, node.val)
+        maxAbs = self.maxAncestorDiffDFS(node.left, maximum, minimum)
+        maxAbs = max(maxAbs, self.maxAncestorDiffDFS(node.right, maximum, minimum))
+        return maxAbs
+
+```
+
+### typeScript
+```typeScript
+function maxAncestorDiff(root: TreeNode | null): number {
+    return maxAncestorDiffDFS(root, root.val, root.val);
+};
+
+function maxAncestorDiffDFS(node: TreeNode | null, maximum: number, minimum: number): number {
+    if (node === null) return maximum - minimum;
+    maximum = Math.max(maximum, node.val);
+    minimum = Math.min(minimum, node.val);
+    let max = maxAncestorDiffDFS(node.left, maximum, minimum);
+    max = Math.max(max, maxAncestorDiffDFS(node.right, maximum, minimum));
+    return max;
+
+}
+
+
+```
