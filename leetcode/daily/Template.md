@@ -9,17 +9,14 @@
 ### Space complex:
 
 ## Code
-### java
-```java
-```
 
 ### python
 ```python
 
 ```
 
-### typeScript
-```typeScript
+### TypeScript
+```TypeScript
 
 
 ```
