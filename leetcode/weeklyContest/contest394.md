@@ -1,4 +1,4 @@
-# [contest394](https://leetcode.cn/contest/weekly-contest-392/ranking/)
+# [contest394](https://leetcode.cn/contest/weekly-contest-394/ranking/)
 ![myrank](./assets/contest394_rank.png)
 ## t1
 
