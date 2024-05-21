@@ -11,3 +11,5 @@ These aren't resolve by myself.
 4. [741. Cherry Pickup](/leetcode/daily/20240506_741.%20Cherry%20Pickup.md)
 
 5. [20240515_2589. Minimum Time to Complete All Tasks](/leetcode/daily/20240515_2589.%20Minimum%20Time%20to%20Complete%20All%20Tasks.md)
+
+6. [20240520_1542. Find Longest Awesome Substring](/leetcode/daily/20240520_1542.%20Find%20Longest%20Awesome%20Substring.md)
