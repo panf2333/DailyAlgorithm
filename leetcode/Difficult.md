@@ -15,3 +15,5 @@ These aren't resolve by myself.
 6. [20240520_1542. Find Longest Awesome Substring](/leetcode/daily/20240520_1542.%20Find%20Longest%20Awesome%20Substring.md)
 
 7. [312. Burst Balloons](/leetcode/daily/20240609_312.%20Burst%20Balloons.md)
+
+8. [2813. Maximum Elegance of a K-Length Subsequence](/leetcode/daily/20240613_2813.%20Maximum%20Elegance%20of%20a%20K-Length%20Subsequence.md)
