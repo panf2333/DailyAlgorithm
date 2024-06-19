@@ -17,3 +17,5 @@ These aren't resolve by myself.
 7. [312. Burst Balloons](/leetcode/daily/20240609_312.%20Burst%20Balloons.md)
 
 8. [2813. Maximum Elegance of a K-Length Subsequence](/leetcode/daily/20240613_2813.%20Maximum%20Elegance%20of%20a%20K-Length%20Subsequence.md)
+
+9. [2713. Maximum Strictly Increasing Cells in a Matrix](/leetcode/daily/20240619_2713.%20Maximum%20Strictly%20Increasing%20Cells%20in%20a%20Matrix.md)
