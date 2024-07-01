@@ -21,3 +21,4 @@ These aren't resolve by myself.
 9. [2713. Maximum Strictly Increasing Cells in a Matrix](/leetcode/daily/20240619_2713.%20Maximum%20Strictly%20Increasing%20Cells%20in%20a%20Matrix.md)
 10. [2663. Lexicographically Smallest Beautiful String](/leetcode/daily/20240622_2663.%20Lexicographically%20Smallest%20Beautiful%20String.md)
 11. [20240628_2742. Painting the Walls](/leetcode/daily/20240628_2742.%20Painting%20the%20Walls.md)
+12. [20240701_2065. Maximum Path Quality of a Graph](/leetcode/daily/20240701_2065.%20Maximum%20Path%20Quality%20of%20a%20Graph.md)
