@@ -22,3 +22,5 @@ These aren't resolve by myself.
 10. [2663. Lexicographically Smallest Beautiful String](/leetcode/daily/20240622_2663.%20Lexicographically%20Smallest%20Beautiful%20String.md)
 11. [20240628_2742. Painting the Walls](/leetcode/daily/20240628_2742.%20Painting%20the%20Walls.md)
 12. [20240701_2065. Maximum Path Quality of a Graph](/leetcode/daily/20240701_2065.%20Maximum%20Path%20Quality%20of%20a%20Graph.md)
+
+13. [20240704_3086. Minimum Moves to Pick K Ones](/leetcode/daily/20240704_3086.%20Minimum%20Moves%20to%20Pick%20K%20Ones.md)
