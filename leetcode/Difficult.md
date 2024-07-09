@@ -24,3 +24,4 @@ These aren't resolve by myself.
 12. [20240701_2065. Maximum Path Quality of a Graph](/leetcode/daily/20240701_2065.%20Maximum%20Path%20Quality%20of%20a%20Graph.md)
 
 13. [20240704_3086. Minimum Moves to Pick K Ones](/leetcode/daily/20240704_3086.%20Minimum%20Moves%20to%20Pick%20K%20Ones.md)
+14. [20240709_3102. Minimize Manhattan Distances](/leetcode/daily/20240709_3102.%20Minimize%20Manhattan%20Distances.md)
