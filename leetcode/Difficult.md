@@ -26,3 +26,5 @@ These aren't resolve by myself.
 13. [20240704_3086. Minimum Moves to Pick K Ones](/leetcode/daily/20240704_3086.%20Minimum%20Moves%20to%20Pick%20K%20Ones.md)
 14. [20240709_3102. Minimize Manhattan Distances](/leetcode/daily/20240709_3102.%20Minimize%20Manhattan%20Distances.md)
 15. [20240717_2959. Number of Possible Sets of Closing Branches](/leetcode/daily/20240717_2959.%20Number%20of%20Possible%20Sets%20of%20Closing%20Branches.md)
+
+16. [20240723_3098. Find the Sum of Subsequence Powers](/leetcode/daily/20240723_3098.%20Find%20the%20Sum%20of%20Subsequence%20Powers.md)
