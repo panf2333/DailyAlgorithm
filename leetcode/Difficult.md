@@ -28,3 +28,5 @@ These aren't resolve by myself.
 15. [20240717_2959. Number of Possible Sets of Closing Branches](/leetcode/daily/20240717_2959.%20Number%20of%20Possible%20Sets%20of%20Closing%20Branches.md)
 
 16. [20240723_3098. Find the Sum of Subsequence Powers](/leetcode/daily/20240723_3098.%20Find%20the%20Sum%20of%20Subsequence%20Powers.md)
+
+17. [20240728_699. Falling Squares](/leetcode/daily/20240728_699.%20Falling%20Squares.md)
