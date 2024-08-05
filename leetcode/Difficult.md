@@ -30,3 +30,5 @@ These aren't resolve by myself.
 16. [20240723_3098. Find the Sum of Subsequence Powers](/leetcode/daily/20240723_3098.%20Find%20the%20Sum%20of%20Subsequence%20Powers.md)
 
 17. [20240728_699. Falling Squares](/leetcode/daily/20240728_699.%20Falling%20Squares.md)
+
+18. [20240805_600. Non-negative Integers without Consecutive Ones](/leetcode/daily/20240805_600.%20Non-negative%20Integers%20without%20Consecutive%20Ones.md)
