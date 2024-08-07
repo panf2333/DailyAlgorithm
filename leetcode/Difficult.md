@@ -34,3 +34,5 @@ These aren't resolve by myself.
 18. [20240805_600. Non-negative Integers without Consecutive Ones](/leetcode/daily/20240805_600.%20Non-negative%20Integers%20without%20Consecutive%20Ones.md)
 
 19. [20240806_3129. Find All Possible Stable Binary Arrays I](/leetcode/daily/20240806_3129.%20Find%20All%20Possible%20Stable%20Binary%20Arrays%20I.md)
+
+20. [20240807_3130. Find All Possible Stable Binary Arrays II](/leetcode/daily/20240807_3130.%20Find%20All%20Possible%20Stable%20Binary%20Arrays%20II.md)
