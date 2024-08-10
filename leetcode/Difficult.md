@@ -36,3 +36,5 @@ These aren't resolve by myself.
 19. [20240806_3129. Find All Possible Stable Binary Arrays I](/leetcode/daily/20240806_3129.%20Find%20All%20Possible%20Stable%20Binary%20Arrays%20I.md)
 
 20. [20240807_3130. Find All Possible Stable Binary Arrays II](/leetcode/daily/20240807_3130.%20Find%20All%20Possible%20Stable%20Binary%20Arrays%20II.md)
+
+21. [20240810_2940. Find Building Where Alice and Bob Can Meet](/leetcode/daily/20240810_2940.%20Find%20Building%20Where%20Alice%20and%20Bob%20Can%20Meet.md)
