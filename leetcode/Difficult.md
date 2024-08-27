@@ -40,3 +40,5 @@ These aren't resolve by myself.
 21. [20240810_2940. Find Building Where Alice and Bob Can Meet](/leetcode/daily/20240810_2940.%20Find%20Building%20Where%20Alice%20and%20Bob%20Can%20Meet.md)
 
 22. [20240823_3145. Find Products of Elements of Big Array](/leetcode/daily/20240823_3145.%20Find%20Products%20of%20Elements%20of%20Big%20Array.md)
+
+23. [20240827_3134. Find the Median of the Uniqueness Array](/leetcode/daily/20240827_3134.%20Find%20the%20Median%20of%20the%20Uniqueness%20Array.md)
